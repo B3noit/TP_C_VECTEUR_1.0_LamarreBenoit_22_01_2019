@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\b3noi\documents\projet code blocks\vecteur\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548149243 source:c:\users\b3noi\documents\projet code blocks\vecteur\point.c
+	"point.h"
+
+1548148497 c:\users\b3noi\documents\projet code blocks\vecteur\point.h
+
+1548150490 source:c:\users\b3noi\documents\projet code blocks\vecteur\vecteur.c
+	"vecteur.h"
+
+1548150199 c:\users\b3noi\documents\projet code blocks\vecteur\vecteur.h
+	"point.h"
+
